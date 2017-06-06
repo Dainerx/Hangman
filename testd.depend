@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1420903535 source:c:\users\user\desktop\testd\main.cpp
+	<iostream>
+	<ctime>
+	"Word.h"
+	<fstream>
+	<vector>
+	<string>
+
+1420903011 c:\users\user\desktop\testd\include\word.h
+	<string>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+
+1420903546 source:c:\users\user\desktop\testd\src\word.cpp
+	"Word.h"
+
+1421061299 source:c:\users\user\desktop\hangman\main.cpp
+	<iostream>
+	<ctime>
+	"Word.h"
+	<fstream>
+	<vector>
+	<string>
+
+1420903011 c:\users\user\desktop\hangman\include\word.h
+	<string>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+
+1420903546 source:c:\users\user\desktop\hangman\src\word.cpp
+	"Word.h"
+
+1421134153 source:c:\users\user\desktop\dainer -$-\c++\projects\hangman\src\word.cpp
+	"Word.h"
+
+1421134242 c:\users\user\desktop\dainer -$-\c++\projects\hangman\include\word.h
+	<string>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+
+1421231851 source:c:\users\user\desktop\dainer -$-\c++\projects\hangman\main.cpp
+	<iostream>
+	<ctime>
+	"Word.h"
+	<fstream>
+	<vector>
+	<string>
+
